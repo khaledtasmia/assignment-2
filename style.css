@@ -1,0 +1,85 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.rong{
+    background-color: #fceae8;
+}
+.bg-color{
+    background-color: rgb(69, 182, 69);
+}
+.link-button{
+    text-decoration: none;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, rgba(56, 170, 53, 0.747));
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.wd{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    width: 215px;
+    background-color: lightgray;
+}
+.prostho{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    width: 240px;
+    background-color: lightgray;
+}
+.whatev{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.card{
+    border-width: 50px;
+    padding: 5px;
+    width: 300px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.chele2{
+    width: 265px;
+    margin-left: 10px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.chele3{
+    margin-top: 20px;
+    width: 290px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.bd{
+    margin-top: 50px;
+}
+.ghor{
+    width: 70px;
+}
+.hdn1{
+    font-size: 15px;
+}
+.p1{
+    font-size: 10px;
+}
+.bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    align-content: center;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
